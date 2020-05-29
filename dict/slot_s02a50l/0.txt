@@ -1,0 +1,14 @@
+06e194 oprt_hag_def_sub
+2339f1 locker
+313a8f sap_def
+37ebeb pash_item_def_max
+413b7e vya_def
+4d6a45 ef_mzf_rugr
+4da185 ef_mzf_scar
+585e26 oprt_hag_amo
+94a1a4 effect
+96a3f1 oprt_hag_amo_dmo
+b7587c toba_item_long_dmo
+d0abdd ef_mzf_scar_smoke
+e65e54 scar_asr_amo
+efc196 scar_asr_def_sub

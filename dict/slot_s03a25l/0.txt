@@ -1,0 +1,5 @@
+113a79 rvn_def
+713a4f rat_def
+84a3b8 hide_obj
+f8e445 rpg7_mis_def_hig
+f911c0 rpg7_mis_def_sub

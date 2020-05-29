@@ -1,0 +1,11 @@
+15c6f5 s01a_btle_b3_sk
+1f5fb7 s02a_comp_a0_cm
+33498e coin
+3d642e s02a_glass_clone_cl
+6a3aab ibox_item_amo
+6a3fa8 ibox_item_bul
+6a6968 ibox_item_mcl
+6a6a20 ibox_item_mid
+713a4f rat_def
+94a1a4 effect
+94c6ee ibox_item_large

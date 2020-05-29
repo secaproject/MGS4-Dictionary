@@ -1,0 +1,7 @@
+6a3aab ibox_item_amo
+6a3fa8 ibox_item_bul
+6a6968 ibox_item_mcl
+6a6a20 ibox_item_mid
+94c6ee ibox_item_large
+f8e445 rpg7_mis_def_hig
+f911c0 rpg7_mis_def_sub

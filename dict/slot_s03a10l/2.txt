@@ -1,0 +1,3 @@
+113a79 rvn_def
+713a4f rat_def
+84a3b8 hide_obj
