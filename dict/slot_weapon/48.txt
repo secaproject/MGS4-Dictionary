@@ -1,0 +1,3 @@
+94a1a4 effect
+f61371 mp7a_sug_dat_slot
+f62e2f mp7a_sug_gls_slot

@@ -1,0 +1,4 @@
+182f2e thor_hag_gls_slot
+2cc1ce thor_hag_def_sub_slot
+4fc6d2 sna_wp_thor
+94a1a4 effect
