@@ -1,0 +1,11 @@
+0838d7 s01a_lckr_door_sk
+108359 s01a33a_nv_obj
+1fb189 m29a_mis_def_sub
+2339f1 locker
+416fe4 s01a33a
+4290f5 s01a_drum_a0_sk
+463172 cwr_hel_def
+5bb856 s01a_lckr_body_sk
+84a3b8 hide_obj
+f14399 s01_bket_futa_sk
+fd428c s01_bket_body_sk

@@ -1,0 +1,2 @@
+8b938d ak12_asr_def_hig
+a6556e ak12_asr_amo

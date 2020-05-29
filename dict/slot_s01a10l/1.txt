@@ -1,0 +1,6 @@
+7358bd s01a14a_north
+8b938d ak12_asr_def_hig
+aff2e2 s01a14a_west
+b743f9 s01a_xgla_a0_cm
+c364bd s01a14a_south
+e2badd s01a14a_enkei
