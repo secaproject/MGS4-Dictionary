@@ -70,9 +70,9 @@ wip
 |stage04|4923|3203|1720|65.06195409303271%||
 |stage05|3519|2709|810|76.98209718670077%||
 
-#Consejos para deducir los nombres de archivo:
+# Consejos para deducir los nombres de archivo:
 Están ordenados por valor hexadecimal, es decir, "0" va antes de "_", que va antes de "A" y éste va antes de "a".
-##En ocasiones nos podemos encontrar con el siguiente ejemplo
+## En ocasiones nos podemos encontrar con el siguiente ejemplo
 - 670edf.0d G | s01a_densen5set_sk.mdn
 - 516784.06 ? |
 - 51678f.65 G | s02a10l.vlm
