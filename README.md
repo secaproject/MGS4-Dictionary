@@ -72,6 +72,7 @@ wip
 
 ## Consejos para deducir los nombres de archivo:
 Están ordenados por valor hexadecimal, es decir, "0" va antes de "\_", que va antes de "A" y éste va antes de "a".
+
 En ocasiones nos podemos encontrar con el siguiente ejemplo
 - 670edf.0d G | s01a_densen5set_sk.mdn
 - 516784.06 ? |
